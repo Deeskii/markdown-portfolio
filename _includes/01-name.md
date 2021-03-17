@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Never Give Up!
+Where there's a will. There's a way.
